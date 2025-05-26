@@ -1,0 +1,13 @@
+# Elm build artifacts
+elm-stuff/
+*.elmi
+*.elmo
+*.dat
+
+# Optional: editor junk
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
