@@ -5208,7 +5208,7 @@ var $author$project$Main$cellView = function (_v0) {
 			]),
 		_List_fromArray(
 			[
-				$elm$html$Html$text('.')
+				$elm$html$Html$text('-')
 			]));
 };
 var $author$project$Main$cols = 16;

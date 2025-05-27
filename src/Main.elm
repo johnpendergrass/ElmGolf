@@ -154,4 +154,4 @@ cellView _ =
         , style "font-size" "12px"
         , style "border" "1px solid #ccc"
         ]
-        [ text "." ]
+        [ text "-" ]
